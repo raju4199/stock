@@ -1,1 +1,1 @@
-# stock
+# Stock-and-Crypto-Price-Predictor
